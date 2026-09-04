@@ -1,4 +1,4 @@
-# EXP 5: Engineering Problem Solving Using Prompt Chaining
+# EXP 5: Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
 
 ## Project Title :RoadSOS – AI-Powered Hybrid Accident Detection and Emergency Response System
 
